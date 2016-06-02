@@ -1,0 +1,21 @@
+{
+  "name": "myHealth",
+  "description": "Sample health app",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.0.2",
+    "express": "^4.0.0",
+    "method-override": "~2.0.2",
+    "mongojs": "^2.4.0",
+    "mongoose": "~4.4.19"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/abadri/myHealth.git",
+  "engines": {
+    "node": ">=4.2.4"
+  }
+}
