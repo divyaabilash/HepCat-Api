@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##Steps
 ```
 $ git clone https://github.com/abadri/myHealth.git
@@ -65,3 +66,7 @@ mongodb://<dbuser>:<dbpassword>@ds037175.mongolab.com:37175/health
 
 
 
+=======
+# serverHepCat
+server for HepCat project
+>>>>>>> 7f347e498374de4994aea220cfa1908e5bc7f80f
